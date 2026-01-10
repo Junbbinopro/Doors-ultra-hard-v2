@@ -1,0 +1,190 @@
+require(game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game).caption("ULTRA Hard Mode By Jun initiated!",true)
+wait(2) require(game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game).caption("Very Good luck!",true)
+
+-- goofy screech
+game.ReplicatedStorage.Entities.Screech.Top.Eyes.Color = Color3.fromRGB(176,0,0)
+game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game.RemoteListener.Modules.Screech.Caught.SoundId = "rbxassetid://17309157540"
+game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game.RemoteListener.Modules.Screech.Caught.PlaybackSpeed = 1.6
+game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game.RemoteListener.Modules.Screech.Attack.SoundId = "rbxassetid://135968179377207"
+
+-- goofy hide
+game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game.RemoteListener.Modules.HideMonster.Scare.SoundId = "rbxassetid://9126213741"
+
+-- goofy spider
+game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game.RemoteListener.Modules.SpiderJumpscare.Scare.SoundId = "rbxassetid://8080941676"
+
+-- Depth
+coroutine.wrap(function()
+    while true do
+        wait(90)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Depth-v2/refs/heads/main/Entity"))()
+    end
+end)()
+
+-- Smiler face
+coroutine.wrap(function()
+    while true do
+        wait(150)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Smile-face/refs/heads/main/Entityy"))()
+    end
+end)()
+
+-- Wh1t3
+coroutine.wrap(function()
+    while true do
+        wait(300)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Wh1t3-v2/refs/heads/main/Entity"))()
+    end
+end)()
+
+-- Omori
+coroutine.wrap(function()
+    while true do
+        wait(390)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Omori-remake/refs/heads/main/Entity"))()
+    end
+end)()
+
+-- Surge
+coroutine.wrap(function()
+    while true do
+        wait(490)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/trungdepth-dot/Entity-surge/refs/heads/main/Surge-20"))()
+    end
+end)()
+
+-- Cg 55
+coroutine.wrap(function()
+    while true do
+        wait(560)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/CG-55-remake/refs/heads/main/Entity"))()
+    end
+end)()
+
+-- Obsession
+coroutine.wrap(function()
+    while true do
+        wait(380)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/trungdepth-dot/Obsession/refs/heads/main/Entity"))()
+    end
+end)()
+
+-- shocker
+coroutine.wrap(function()
+    while true do
+        wait(35)
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/vct0721/Doors-Stuff/refs/heads/main/Entities/Shocker"))()
+    end
+end)()
+
+-- Greed
+coroutine.wrap(function()
+    while true do
+        wait(700)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Greed-remake/refs/heads/main/Entity"))()
+    end
+end)()
+
+-- Distort
+ 
+coroutine.wrap(function()
+ 
+while true do
+ 
+local sctm = math.random(350,15000)
+ 
+wait(sctm)
+ 
+require(game.Players.LocalPlayer.PlayerGui.MainUI.Initiator.Main_Game).caption('Secret entity did not dangerous',true)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Distort/refs/heads/main/Entity"))()
+ 
+end
+ 
+end)()
+
+-- Scary
+coroutine.wrap(function()
+    while true do
+        wait(990)
+         game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Scary-face-remake/refs/heads/main/Entity"))()
+ 
+end
+ 
+end)()
+
+-- Blue face
+coroutine.wrap(function()
+    while true do
+        wait(790)
+         game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Blue-face-remake/refs/heads/main/Entity"))()
+
+end
+    
+end)()
+
+-- G95
+coroutine.wrap(function()
+    while true do
+        wait(620)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/G-95-v2/refs/heads/main/Entity"))()
+
+end
+
+end)()
+
+-- 200
+coroutine.wrap(function()
+    while true do
+        wait(670)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/200-remake/refs/heads/main/Entity"))()
+
+end
+
+end)()
+
+-- Z404
+coroutine.wrap(function()
+    while true do
+        wait(890)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Z-404-remake/refs/heads/main/Entity"))()
+
+end
+
+end)()
+
+-- Trauma
+coroutine.wrap(function()
+    while true do
+        wait(230)
+        game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
+        wait(0)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Trauma-remake/refs/heads/main/Entity"))()
+
+end
+
+end)()
