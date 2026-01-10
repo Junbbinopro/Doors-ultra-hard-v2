@@ -188,3 +188,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Trauma-re
 end
 
 end)()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DoorsHubs/Doors-Hubs/refs/heads/main/Nightmare"))()
