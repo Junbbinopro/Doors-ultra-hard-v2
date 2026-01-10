@@ -73,13 +73,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/CG-55-rem
     end
 end)()
 
--- Obsession
+-- Look
 coroutine.wrap(function()
     while true do
         wait(380)
         game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
         wait(0)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/trungdepth-dot/Obsession/refs/heads/main/Entity"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/look-at-me/refs/heads/main/Entity"))()
     end
 end)()
 
