@@ -23,7 +23,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Depth-v2/
     end
 end)()
 
--- Smiler face
+-- Red
 coroutine.wrap(function()
     while true do
         wait(150)
@@ -43,13 +43,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Wh1t3-v2/
     end
 end)()
 
--- Rebound
+-- Horror
 coroutine.wrap(function()
     while true do
         wait(390)
         game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
         wait(0)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Rebound/refs/heads/main/Entity"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Horror-face/refs/heads/main/Entity"))()
     end
 end)()
 
@@ -63,7 +63,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Surge-rem
     end
 end)()
 
--- Cg 55
+-- Cg55
 coroutine.wrap(function()
     while true do
         wait(560)
@@ -129,7 +129,7 @@ end
  
 end)()
 
--- Blue face
+-- Blue
 coroutine.wrap(function()
     while true do
         wait(790)
@@ -183,7 +183,7 @@ coroutine.wrap(function()
         wait(230)
         game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
         wait(0)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Trauma-remake/refs/heads/main/Entity"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Trauma-entity/refs/heads/main/Trauma"))()
 
 end
 
