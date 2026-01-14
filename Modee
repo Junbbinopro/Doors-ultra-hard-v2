@@ -43,13 +43,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Wh1t3-v2/
     end
 end)()
 
--- Omori
+-- Rebound
 coroutine.wrap(function()
     while true do
         wait(390)
         game.ReplicatedStorage.GameData.LatestRoom.Changed:Wait()
         wait(0)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Omori-remake/refs/heads/main/Entity"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Junbbinopro/Rebound/refs/heads/main/Entity"))()
     end
 end)()
 
